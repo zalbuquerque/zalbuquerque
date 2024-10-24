@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9B59B6&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo(a)+ao+meu+perfil+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9B59B6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Zara+:%29)](https://git.io/typing-svg)
 
 ## 🌐 Connect with me</p>
 
