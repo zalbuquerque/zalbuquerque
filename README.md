@@ -29,7 +29,9 @@
 </div>
 
 ### 
-<div align="left">
-<img align="center" height="140" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZrdnJ0a2wyaGdsOXRrMGdvZHhodWV4ZTM4OGx4bXJ2Y3I1dDl1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif"  />
-<img align="center" height="140" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJkMHozMzZhbGg1Y2JxaWQyOWkxdnU2Y3hjYnhtZnd0Nmp6bTl4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zalbuquerque/zalbuquerque/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zalbuquerque/zalbuquerque/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zalbuquerque/zalbuquerque/output/pacman-contribution-graph.svg">
+</picture>
+###
