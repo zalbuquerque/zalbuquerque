@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9B59B6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Zara+:%29)](https://git.io/typing-svg)
-
+My name is Zara Albuquerque, I am from Jordão (AC), currently residing in Pindamonhangaba (SP). Committed to continuous learning and constantly seeking to improve my skills to stay up to date in this dynamic field.
 ## 🌐 Connect with me</p>
 
 ###
