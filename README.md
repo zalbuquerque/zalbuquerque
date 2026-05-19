@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9B59B6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Zara+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/2dd1a745-aa6e-408f-ae82-65c93184f16a" alt="zaraprofile" width="400"/>
-</div>
+
 
 
 
