@@ -4,7 +4,7 @@
 
 
 
-My name is Zara Albuquerque, a student of Systems Analysis and Development. I’m originally from Jordão (AC) and currently living in Pindamonhangaba (SP). I am committed to continuous learning and constantly strive to improve my skills to stay up to date in this dynamic field.
+My name is Zara Albuquerque, a student of Systems Analysis and Development. I am committed to continuous learning and constantly strive to improve my skills to stay up to date in this dynamic field.
 
 ## 🌐 Connect with me</p>
 
